@@ -1,6 +1,6 @@
 # A-star algorithm
 
-Just an experimental work for knowing how this algorithm works.
+Just an experimental work for studying how this algorithm works.
 
 ![Image](https://live.staticflickr.com/65535/50304503028_4039a67722_z_d.jpg)
 
